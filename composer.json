@@ -1,0 +1,10 @@
+{
+    "require": {
+        "google/cloud-vision": "^0.17.2",
+        "slim/slim": "^3.0",
+        "illuminate/database": "~5.2"
+    },
+    "autoload": {
+    	"psr-4": { "Chatter\\" : "src/Chatter" }
+    }
+}
